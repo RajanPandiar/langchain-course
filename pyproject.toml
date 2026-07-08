@@ -10,5 +10,6 @@ dependencies = [
     "langchain>=1.2.15",
     "langchain-anthropic>=0.3.0",
     "langchain-ollama>=1.1.0",
+    "langsmith>=0.3.0",
     "python-dotenv>=1.2.2",
 ]
